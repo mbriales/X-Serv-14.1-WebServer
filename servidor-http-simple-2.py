@@ -40,6 +40,7 @@ try:
                         "<html><body><h1>Hello World!</h1>" +
                         "<p>And in particular hello to you, " +
                         str(address[0]) +
+                        str(address[1]) +
                         "</p>" +
                         "</body></html>" +
                         "\r\n")
